@@ -1,5 +1,9 @@
 # GitHub Bookmarks — Ron Kaldes
 
+**Contact:** [ronkaldes.com](https://ronkaldes.com/) · [LinkedIn](https://www.linkedin.com/in/ronkaldes/) · [GitHub](https://github.com/ronkaldes) · [Book a call](https://cal.com/ronkaldes/30min) · ron@ai6labs.com
+
+Searchable index of all starred repos: [`index.html`](index.html)
+
 A curated list of repos I find valuable for reference, learning, and building.
 These are repos I forked or starred — saved here as a permanent bookmark list.
 
